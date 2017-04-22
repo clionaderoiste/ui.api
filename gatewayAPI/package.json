@@ -1,0 +1,27 @@
+{
+  "name": "gateway-api",
+  "version": "0.0.1",
+  "description": "A project to try and see if an aggregator can be made to return partial responses and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clionaderoiste/ui.api.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "koa"
+  ],
+  "author": "Clíona de Róiste",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/clionaderoiste/ui.api/issues"
+  },
+  "homepage": "https://github.com/clionaderoiste/ui.api#readme",
+  "dependencies": {
+    "koa": "^2.2.0"
+  }
+}
